@@ -1,0 +1,9 @@
+---
+name: modules
+version: master
+
+asciidoc:
+  attributes:
+    lab_name: "Migrate to Red Hat Enterprise Linux from CentOS Linux"
+    release-version: master
+    page-pagination: true

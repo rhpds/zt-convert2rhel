@@ -1,0 +1,24 @@
+---
+antora:
+  name: modules
+  dir: www
+  modules:
+    - name: "01-introduction"
+      label: "Introduction"
+      solveButton: true
+    - name: "02-installing-c2r"
+      label: "Installing C2r"
+      solveButton: true
+    - name: "03-analyze"
+      label: "Analyze"
+      solveButton: true
+    - name: "04-running-c2r"
+      label: "Running C2r"
+      solveButton: true
+    - name: "05-completing-conversion"
+      label: "Completing Conversion"
+      solveButton: true
+
+tabs:
+  - name: ">_ terminal"
+    url: /wetty

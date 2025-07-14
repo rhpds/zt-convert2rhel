@@ -1,7 +1,7 @@
 ---
 virtualmachines:
   - name: "host"
-    image: "virt-rhel-9-5-11-29-24"
+    image: "centos-convert2rhel"
     memory: "2G"
     cores: 1
     image_size: "40G"

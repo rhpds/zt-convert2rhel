@@ -1,7 +1,7 @@
 ---
 virtualmachines:
   - name: "host"
-    image: "centos-07-15-2025"
+    image: "savage-minimal-centos-7.9-hvm-std01.x86_64-gp2"
     memory: "2G"
     cores: 1
     image_size: "40G"

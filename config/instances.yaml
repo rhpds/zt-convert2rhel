@@ -1,7 +1,7 @@
 ---
 virtualmachines:
   - name: "host"
-    image: "rhdp_images/centos-07-15-2025"
+    image: "centos-7.9.2009"
     memory: "2G"
     cores: 1
     image_size: "40G"

@@ -20,5 +20,7 @@ antora:
       solveButton: false
 
 tabs:
-  - name: ">_ terminal"
-    url: /wetty
+  - name: "controlnode"
+    url: /wetty_controlnode/ssh/root
+  - name: "centos"
+    url: /wetty_centos/ssh/root

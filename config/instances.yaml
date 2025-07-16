@@ -1,16 +1,16 @@
 ---
 virtualmachines:
-  - name: "host"
-    image: "centos-7.9.2009"
-    bootloader: efi
-    memory: "2G"
-    cores: 1
-    image_size: "40G"
-    tags:
-      - key: "AnsibleGroup"
-        value: "nodes"
-    networks:
-      - default
+  # - name: "host"
+  #   image: "centos-7.9.2009"
+  #   bootloader: efi
+  #   memory: "2G"
+  #   cores: 1
+  #   image_size: "40G"
+  #   tags:
+  #     - key: "AnsibleGroup"
+  #       value: "nodes"
+  #   networks:
+  #     - default
   - name: "controlnode"
     image: "rhel-10-0-07-09-25-3"
     bootloader: efi

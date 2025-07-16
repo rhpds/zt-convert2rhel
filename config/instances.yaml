@@ -2,6 +2,7 @@
 virtualmachines:
   - name: "host"
     image: "centos-7.9.2009"
+    bootloader: efi
     memory: "2G"
     cores: 1
     image_size: "40G"
